@@ -1,0 +1,30 @@
+{
+  "Monday": {
+    "tasks": [],
+    "habits": {}
+  },
+  "Tuesday": {
+    "tasks": [],
+    "habits": {}
+  },
+  "Wednesday": {
+    "tasks": [],
+    "habits": {}
+  },
+  "Thursday": {
+    "tasks": [],
+    "habits": {}
+  },
+  "Friday": {
+    "tasks": [],
+    "habits": {}
+  },
+  "Saturday": {
+    "tasks": [],
+    "habits": {}
+  },
+  "Sunday": {
+    "tasks": [],
+    "habits": {}
+  }
+}

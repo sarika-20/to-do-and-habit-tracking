@@ -1,0 +1,67 @@
+{
+  "todo": [
+    {
+      "date": "2025-07-28",
+      "task": "classes",
+      "type": "Academic"
+    },
+    {
+      "date": "2025-07-28",
+      "task": "clean room",
+      "type": "Personal"
+    },
+    {
+      "date": "2025-07-28",
+      "task": "classes",
+      "type": "Academic"
+    },
+    {
+      "date": "2025-07-28",
+      "task": "to learn python",
+      "type": "Academic"
+    },
+    {
+      "date": "2025-07-28",
+      "task": "bathing",
+      "type": "Personal"
+    }
+  ],
+  "habits": {
+    "make breakfast": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": false,
+      "Sunday": true
+    },
+    "dinner": {
+      "Monday": true,
+      "Tuesday": false,
+      "Wednesday": true,
+      "Thursday": false,
+      "Friday": true,
+      "Saturday": false,
+      "Sunday": false
+    },
+    "studying": {
+      "Monday": false,
+      "Tuesday": false,
+      "Wednesday": false,
+      "Thursday": false,
+      "Friday": false,
+      "Saturday": false,
+      "Sunday": false
+    },
+    "lazyness": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true
+    }
+  }
+}
